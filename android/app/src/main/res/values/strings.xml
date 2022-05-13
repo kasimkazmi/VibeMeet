@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">vibemeet</string>
+
+    
+<string name="facebook_app_id">506722244354434</string>
+<string name="fb_login_protocol_scheme">fb506722244354434</string>
+<!-- <string name="facebook_client_token">74cd9e0b948663115d797be265df7819</string> -->
+
+
+</resources>

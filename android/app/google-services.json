@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427149026502",
+    "project_id": "vb-meet",
+    "storage_bucket": "vb-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427149026502:android:c055eb95da9ff4c5d0a3c7",
+        "android_client_info": {
+          "package_name": "com.vibemeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427149026502-jvejngsluvl71nqml74drtrrrpb2l28l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZWbEBvF370CEcPsICJLa5dWIE5DhRvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427149026502-jvejngsluvl71nqml74drtrrrpb2l28l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
